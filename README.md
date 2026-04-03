@@ -32,6 +32,15 @@ With 10+ years in quality engineering, I've evolved from a manual QA engineer to
 
 ## 📂 Featured Repositories
 
+### 🤖 AI & GenAI Projects *(coming soon — sanitised versions of production work)*
+| Repository | Description | Tech |
+|---|---|---|
+| 🔜 self-healing-automation-framework | AI-agent-driven self-healing UI test framework with autonomous recovery | Python · Playwright · Selenium |
+| 🔜 multi-agent-qa-pipeline | 4-stage agentic QA pipeline integrating JIRA requirements + Playwright execution | Python · LangChain · JIRA |
+| 🔜 genai-testing-framework | LLM evaluation framework — hallucination detection, toxicity checks, semantic validation | Python · RAGAS · FastAPI |
+| 🔜 ai-qa-screener | AI-powered QA resume screening utility using OpenAI API and fit scoring | Python · FastAPI · OpenAI API |
+
+### 🧪 Automation Frameworks
 | Repository | Description | Tech |
 |---|---|---|
 | [BackendAutomationFramework](https://github.com/karthikcpatel/BackendAutomationFramework) | Scalable backend test automation framework | Python |
