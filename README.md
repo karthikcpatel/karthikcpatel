@@ -4,7 +4,7 @@
 
 I build AI systems that make software testing smarter — not just faster.
 
-With 13+ years in quality engineering, I've evolved from a manual QA engineer to an AI Test Architect specialising in **GenAI evaluation frameworks**, **multi-agent agentic QA pipelines**, and **self-healing test infrastructure**.
+With 10+ years in quality engineering, I've evolved from a manual QA engineer to an AI Test Architect specialising in **GenAI evaluation frameworks**, **multi-agent agentic QA pipelines**, and **self-healing test infrastructure**.
 
 ---
 
