@@ -66,13 +66,13 @@ With 10+ years in quality engineering, I've evolved from a manual QA engineer to
 
 ## 📈 Career Journey
 
-2025 - Now   │  PwC India              │  AI Test Architect / Manager (GenAI, Agentic QA)
-2024 - 2025  │  IBM India Labs         │  SDET (Selenium Grid, 500+ test cases)
-2021 - 2024  │  Persistent Systems     │  Project Lead (70% faster delivery, Top Talent FY23)
-2015 - 2021  │  S&P Global             │  QE II → Sr QE → SDET III (AWS migration, 0% defect rate)
-2012 - 2015  │  NetWeb Software        │  QA Engineer → REST API Automation
-
----
+| Years | Company | Role |
+|---|---|---|
+| 2025 – Now | **PwC India** | AI Test Architect / Manager (GenAI, Agentic QA) |
+| 2024 – 2025 | **IBM India Labs** | SDET (Selenium Grid, 500+ test cases) |
+| 2021 – 2024 | **Persistent Systems** | Project Lead (70% faster delivery, Top Talent FY23) |
+| 2015 – 2021 | **S&P Global** | QE II → Sr QE → SDET III (AWS migration, 0% defect rate) |
+| 2012 – 2015 | **NetWeb Software** | QA Engineer → REST API Automation |
 
 ## 📫 Connect With Me
 
