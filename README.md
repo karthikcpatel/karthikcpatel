@@ -35,10 +35,10 @@ With 10+ years in quality engineering, I've evolved from a manual QA engineer to
 ### 🤖 AI & GenAI Projects *(coming soon — sanitised versions of production work)*
 | Repository | Description | Tech |
 |---|---|---|
-| 🔜 self-healing-automation-framework | AI-agent-driven self-healing UI test framework with autonomous recovery | Python · Playwright · Selenium |
-| 🔜 multi-agent-qa-pipeline | 4-stage agentic QA pipeline integrating JIRA requirements + Playwright execution | Python · LangChain · JIRA |
-| 🔜 genai-testing-framework | LLM evaluation framework — hallucination detection, toxicity checks, semantic validation | Python · RAGAS · FastAPI |
-| 🔜 ai-qa-screener | AI-powered QA resume screening utility using OpenAI API and fit scoring | Python · FastAPI · OpenAI API |
+| [self-healing-automation-framework](https://github.com/karthikcpatel) | AI-agent-driven self-healing UI test framework with autonomous recovery | Python · Playwright · Selenium |
+| [multi-agent-qa-pipeline](https://github.com/karthikcpatel/AutoTestify) | 4-stage agentic QA pipeline integrating JIRA requirements + Playwright execution | Python · LangChain · JIRA |
+| [genai-testing-framework](https://github.com/karthikcpatel/GenAIEvalKit-HR) | LLM evaluation framework — hallucination detection, toxicity checks, semantic validation | Python · RAGAS · FastAPI |
+| [ai-qa-screener](https://github.com/karthikcpatel/ResumeIQ) | AI-powered QA resume screening utility using OpenAI API and fit scoring | Python · FastAPI · OpenAI API |
 
 ### 🧪 Automation Frameworks
 | Repository | Description | Tech |
@@ -66,20 +66,18 @@ With 10+ years in quality engineering, I've evolved from a manual QA engineer to
 
 ## 📈 Career Journey
 
-```
 2025 - Now   │  PwC India              │  AI Test Architect / Manager (GenAI, Agentic QA)
 2024 - 2025  │  IBM India Labs         │  SDET (Selenium Grid, 500+ test cases)
 2021 - 2024  │  Persistent Systems     │  Project Lead (70% faster delivery, Top Talent FY23)
 2015 - 2021  │  S&P Global             │  QE II → Sr QE → SDET III (AWS migration, 0% defect rate)
 2012 - 2015  │  NetWeb Software        │  QA Engineer → REST API Automation
-```
 
 ---
 
 ## 📫 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/karthikcpatel/)
-[Email](karthikcpatel@gmail.com)
+[Email](mailto:karthikcpatel@gmail.com)
 
 ---
 
