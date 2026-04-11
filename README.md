@@ -52,14 +52,6 @@ With 12+ years in quality engineering, I've evolved from a manual QA engineer to
 
 ---
 
-## 📊 GitHub Stats
-
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikcpatel&show_icons=true&theme=default&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikcpatel&layout=compact&theme=default)
-
----
-
 ## 🏆 Highlights
 
 - 🥇 **Top Talent FY23** — Persistent Systems
